@@ -1,0 +1,81 @@
+{
+    "status": "Success",
+    "message": {
+        "device_state": [
+            {
+                "device_id": "70041d8bea18",
+                "power": true,
+                "last_recorded_speed": 3,
+                "sleep_mode": false,
+                "led": false,
+                "is_online": true,
+                "timer_hours": 0,
+                "timer_time_elapsed_mins": 0,
+                "ts_epoch_seconds": 1725815661
+            },
+            {
+                "device_id": "34851813d5d0",
+                "power": false,
+                "last_recorded_speed": 2,
+                "sleep_mode": true,
+                "led": true,
+                "is_online": true,
+                "timer_hours": 0,
+                "timer_time_elapsed_mins": 0,
+                "ts_epoch_seconds": 1725812197
+            },
+            {
+                "device_id": "a0764ee4210c",
+                "power": true,
+                "last_recorded_speed": 2,
+                "sleep_mode": true,
+                "led": false,
+                "is_online": false,
+                "timer_hours": 0,
+                "timer_time_elapsed_mins": 0,
+                "ts_epoch_seconds": 1709622411,
+                "last_recorded_brightness": 85,
+                "last_recorded_color": "warm"
+            },
+            {
+                "device_id": "6867258f83d0",
+                "power": false,
+                "last_recorded_speed": 2,
+                "sleep_mode": false,
+                "led": false,
+                "is_online": true,
+                "timer_hours": 0,
+                "timer_time_elapsed_mins": 0,
+                "ts_epoch_seconds": 1709640761,
+                "last_recorded_brightness": 10,
+                "last_recorded_color": "cool"
+            },
+            {
+                "device_id": "a0764e2373b4",
+                "power": true,
+                "last_recorded_speed": 3,
+                "sleep_mode": false,
+                "led": false,
+                "is_online": false,
+                "timer_hours": 0,
+                "timer_time_elapsed_mins": 0,
+                "ts_epoch_seconds": 1700189094,
+                "last_recorded_brightness": 10,
+                "last_recorded_color": "daylight"
+            },
+            {
+                "device_id": "6867258b9d78",
+                "power": true,
+                "last_recorded_speed": 5,
+                "sleep_mode": false,
+                "led": true,
+                "is_online": true,
+                "timer_hours": 0,
+                "timer_time_elapsed_mins": 30,
+                "ts_epoch_seconds": 1709660239,
+                "last_recorded_brightness": 100,
+                "last_recorded_color": "cool"
+            }
+        ]
+    }
+}

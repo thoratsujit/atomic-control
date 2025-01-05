@@ -1,0 +1,118 @@
+{
+    "status": "Success",
+    "message": {
+        "devices_list": [
+            {
+                "metadata": {
+                    "ssid": "kalpataru"
+                },
+                "device_id": "70041d8bea18",
+                "color": "Pearl White",
+                "series": "R1",
+                "model": "renesa+",
+                "room": "Workspace",
+                "name": "Office Fan"
+            },
+            {
+                "metadata": {
+                    "ssid": "kalpataru"
+                },
+                "device_id": "34851813d5d0",
+                "color": "Pearl White",
+                "series": "R1",
+                "model": "renesa+",
+                "room": "Living Room",
+                "name": "Fantastic"
+            },
+            {
+                "metadata": {
+                    "ssid": "IOT Extender"
+                },
+                "device_id": "68672590641c",
+                "color": "Snow White",
+                "series": "K1",
+                "model": "erica",
+                "room": "Living Room",
+                "name": "Erica fan"
+            },
+            {
+                "metadata": {
+                    "ssid": "JioFiber_ 2.4G"
+                },
+                "device_id": "6867258b9d78",
+                "color": "Marble White",
+                "series": "I1",
+                "model": "aris",
+                "room": "Living Room",
+                "name": "Atom Fan"
+            },
+            {
+                "metadata": {
+                    "ssid": "Better_Together"
+                },
+                "device_id": "a0764e5aee98",
+                "color": "Golden Oakwood",
+                "series": "R1",
+                "model": "renesa+",
+                "room": "Living Room",
+                "name": "Smart Fan AAAAAAVBBBBB"
+            },
+            {
+                "metadata": {
+                    "ssid": "Warhate@HOME"
+                },
+                "device_id": "a0764e2373b4",
+                "color": "Marble White",
+                "series": "I1",
+                "model": "aris",
+                "room": "Living Room",
+                "name": "Aris Fan"
+            },
+            {
+                "metadata": {
+                    "ssid": "Better_Together"
+                },
+                "device_id": "84fce6285b28",
+                "color": "White and Black",
+                "series": "R1",
+                "model": "renesa",
+                "room": "Living Room",
+                "name": "Renesa Fan"
+            },
+            {
+                "metadata": {
+                    "ssid": "Better_Together"
+                },
+                "device_id": "6867258f83d0",
+                "color": "Marble White",
+                "series": "I1",
+                "model": "aris",
+                "room": "Living Room",
+                "name": "Aris Fan"
+            },
+            {
+                "metadata": {
+                    "ssid": "Better_Together"
+                },
+                "device_id": "64e833ee5244",
+                "color": "Pearl White",
+                
+                "series": "R1",
+                "model": "renesa+",
+                "room": "Living Room",
+                "name": "Renes3a Fan"
+            },
+            {
+                "metadata": {
+                    "ssid": "Better_Together"
+                },
+                "device_id": "a0764ee4210c",
+                "color": "Dark Teakwood",
+                "series": "I1",
+                "model": "aris",
+                "room": "Living Room",
+                "name": "Aris Fan"
+            }
+        ]
+    }
+}
